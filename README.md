@@ -1,2 +1,2 @@
-# AIML_notes_labs
-my projects and lab submissions 
+# AIML_Notes_and_Labs
+My Projects and Lab Submissions 
